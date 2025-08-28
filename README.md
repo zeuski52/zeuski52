@@ -1,6 +1,6 @@
 # Hi, I'm Chris Szabla 👋
 Aspiring IT Ops / Cloud / DevOps engineer  
-🎓 Graduating Aug 2025 · Open to IT Ops, SysAdmin, and Cloud/DevOps roles  
+🎓 Graduated Aug 2025 · Open to IT Ops, SysAdmin, and Cloud/DevOps roles  
 
 ---
 
