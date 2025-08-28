@@ -1,16 +1,22 @@
 # Hi, I'm Chris Szabla 👋
-Aspiring IT Ops / Cloud / DevOps engineer. Hands-on with AWS, Windows Server/MDT-WDS, Cisco labs, and automation.
+Aspiring IT Ops / Cloud / DevOps engineer  
+🎓 Graduating Aug 2025 · Open to IT Ops, SysAdmin, and Cloud/DevOps roles  
 
-**Highlights**
-- AWS: VPC, EC2, RDS, CloudFormation (IaC)
-- Windows Infra: MDT/WDS PXE builds, imaging automation
-- Scripting: Python for ops tooling (logs, APIs, reports)
+---
 
-**Portfolio**
-- AWS IaC: [aws-automation-test-web-server-db](https://github.com/zeuski52/aws-automation-test-web-server-db)  
-- MDT/WDS Automation: [mdt-wds-pxe-automation](https://github.com/zeuski52/mdt-wds-pxe-automation)  
-- Python Tools: [py-contact-book](https://github.com/zeuski52/py-contact-book), [py-pizza-restaurant-pos](https://github.com/zeuski52/py-pizza-restaurant-pos)   
-- HTML/CSS Archive: [static-site](https://github.com/zeuski52/zeuski52.github.io)
+**🔹 Highlights**
+- **AWS**: VPC, EC2, RDS, CloudFormation (IaC)  
+- **Windows Infra**: MDT/WDS PXE builds, imaging automation  
+- **Scripting**: Python for ops tooling (logs, APIs, reports)  
+- **Networking**: Cisco Packet Tracer labs (EIGRP/OSPF/VLANs/VPN)  
 
-**Contact**  
-www.linkedin.com/in/chris-szabla | cszabla@gmail.com
+---
+
+**📂 Portfolio**
+👉 Check out my curated portfolio repo:  
+[it-portfolio-chris-szabla](https://github.com/zeuski52/it-portfolio-chris-szabla)
+
+---
+
+**📫 Contact**  
+[LinkedIn](https://www.linkedin.com/in/chris-szabla) • [Email](mailto:cszabla@gmail.com)
