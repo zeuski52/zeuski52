@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Chris Szabla 👋
+Aspiring IT Ops / Cloud / DevOps engineer. Hands-on with AWS, Windows Server/MDT-WDS, Cisco labs, and automation.
 
-<!--
-**zeuski52/zeuski52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Highlights**
+- AWS: VPC, EC2, RDS, CloudFormation (IaC)
+- Windows Infra: MDT/WDS PXE builds, imaging automation
+- Scripting: Python for ops tooling (logs, APIs, reports)
 
-Here are some ideas to get you started:
+**Portfolio**
+- AWS IaC: [aws-automation-test-web-server-db](#)  
+- MDT/WDS Automation: [mdt-wds-pxe-automation](#)  
+- Python Tools: [py-contact-book](#), [py-pizza-restaurant-pos](#)   
+- HTML/CSS Archive: [static-sites](#)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Contact**  
+www.linkedin.com/in/chris-szabla | cszabla@gmail.com
